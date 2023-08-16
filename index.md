@@ -1,15 +1,20 @@
 ---
+layout: default
 title: 3D BIO Dataset
-layout: 3D BIO Dataset
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
 ---
+
+# Introduction
 
 To perform effectively, machine learning (ML) and deep learning (DL) algorithms require high-quality training samples and accurate and detailed annotations. We describe a semi-automatic framework for creating a dataset and establish a canonical benchmark dataset, the 3D building indoor outdoor dataset (BIO dataset), which is a highly accurate, high level of detail, and high coverage dataset for 3D building point cloud and mesh semantic segmentation. According to statistics, the total area of this dataset is 481,769 square metres, with an average of 75,587 triangular faces per building, and contains 11 building structure semantic categories.
 
-Some examples of our dataset:
+## Some examples of our dataset:
 
 ![Alt text](BIO_dataset_overview.jpeg "Some examples of the BIO dataset")
 
-Statistics of BIO dataset:
+## Statistics of BIO dataset:
 ![Alt text](total_class_dist.svg "Categories statistic of the BIO dataset")
 
 ----
@@ -22,3 +27,13 @@ Bibtex
 '''
 
 '''
+
+### Contributing
+
+When contributing to this repository, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/biodatset/biodataset/#contributing).
+
+
+### License
+
+Just the Docs is distributed by an [MIT license](https://github.com/biodatset/biodataset/tree/main/LICENSE.txt).
