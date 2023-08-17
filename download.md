@@ -24,3 +24,7 @@ The official implementation will soon be published in [our github repository](ht
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/biodatset/biodataset/#contributing).
+
+### LICENSE
+
+This dataset is distributed by an [MIT license](https://github.com/biodatset/biodataset/LICENSE)
