@@ -27,4 +27,4 @@ email, or any other method with the owners of this repository before making a ch
 
 ### LICENSE
 
-This dataset is distributed by an [MIT license](https://github.com/biodatset/biodataset/LICENSE)
+This dataset is distributed by an [MIT license](https://github.com/biodataset/biodataset/blob/main/LICENSE)https://github.com/biodataset/biodataset/blob/main/LICENSE)
