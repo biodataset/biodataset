@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D BIO Dataset
+title: Dataset
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
@@ -22,6 +22,15 @@ To perform effectively, machine learning (ML) and deep learning (DL) algorithms 
 ![Alt text](total_class_dist.svg "Categories statistic of the BIO dataset")
 
 ----
+
+---
+layout: default
+title: Download
+nav_order: 2
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
+---
+
 ### Download the paper
 [paper](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
