@@ -20,11 +20,3 @@ To perform effectively, machine learning (ML) and deep learning (DL) algorithms 
 
 ## Statistics of BIO dataset
 ![Alt text](total_class_dist.svg "Categories statistic of the BIO dataset")
-
-----
-
-----
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/biodatset/biodataset/tree/main/LICENSE.txt).
